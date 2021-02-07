@@ -5,6 +5,7 @@
   "homepage": "https://github.com/san650/ceibo#readme",
   "bugs": "https://github.com/san650/ceibo/issues",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "testem ci"
   },
